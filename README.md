@@ -1,6 +1,6 @@
 # How to run
 
-This is a docker image for jupyterlab with awesome extensions below.
+This is a [docker image](https://hub.docker.com/r/hotsuyuki/datascience-notebook-jupyterlab) for jupyterlab with awesome extensions below.
 
 * [lckr/jupyterlab-variableInspector](https://github.com/lckr/jupyterlab-variableInspector)
 * [krassowski/jupyterlab-go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition)
