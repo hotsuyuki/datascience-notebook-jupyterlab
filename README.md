@@ -4,7 +4,7 @@ This is a [docker image](https://hub.docker.com/r/hotsuyuki/datascience-notebook
 
 * [lckr/jupyterlab-variableInspector](https://github.com/lckr/jupyterlab-variableInspector)
 * [krassowski/jupyterlab-go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition)
-*[jwkvam/jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim)
+* [jwkvam/jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim)
 
 You can lauch jupyterlab directly from this docker image by, 
 
