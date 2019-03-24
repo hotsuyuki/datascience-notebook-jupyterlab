@@ -1,4 +1,4 @@
-# How to run
+# How to run jupyterlab
 
 This is a [docker image](https://hub.docker.com/r/hotsuyuki/datascience-notebook-jupyterlab) for jupyterlab with awesome extensions below.
 
